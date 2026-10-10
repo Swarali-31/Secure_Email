@@ -112,7 +112,7 @@ The repository contains the Python source code, required configuration and depen
 
 ## 11. GitHub Repository
 
-**Repository URL:** Add your GitHub repository URL here.
+**Repository URL:** https://github.com/Swarali-31/Secure_Email
 
 ## 12. Conclusion
 
